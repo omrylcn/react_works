@@ -14,7 +14,7 @@ It includes simple react projects to try fundamental react concepts.
 
 - ``overviev``
 
-  <img src = img/intro_project_one.png width="800" height="100%"></img>
+  <img src = img/intro_project_one.png width="600" height="100%"></img>
 
 ## ``find_powers``
 
@@ -22,7 +22,7 @@ It use plotly API. Application calculate choosen number powers and show  them us
 
 - ``overview``
   
-  <img src = img/find_power.png width="800" height="100%"></img>
+  <img src = img/find_power.png width="600" height="100%"></img>
 
 ## ``blog``
 
@@ -30,6 +30,6 @@ It is a personal blog project, it is purposed to use different bootstrap compone
 
 - ``overview``
   
-  <img src = img/blog.png width="800" height="100%"></img>
+  <img src = img/blog.png width="600" height="100%"></img>
 
 **Note**: The project was strong inspired by the ["Bootstrap 4 ile Sıfırdan Harika Web Projeleri Oluşturun"](https://www.udemy.com/course/bootstrap-4-ile-sifirdan-harika-web-projeleri-olusturun/) course.
