@@ -10,7 +10,7 @@ This repo includes  my personal works during my react learning adventure. To run
 
 It includes simple react projects to try fundamental react concepts.
 
-### ``simple_page`` project
+### ``simple_page``
 
 - ``overviev``
 
