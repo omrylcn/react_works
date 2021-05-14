@@ -2,7 +2,8 @@
 
 This repo includes  my personal works during my react learning adventure. To run projects:
 
-- enter project folder
+- Enter project folder
+- Run commands
   - ``node install``
   - ``node start``
 
