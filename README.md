@@ -7,17 +7,17 @@ This repo includes  my personal works during my react learning adventure. To run
   - ``node install``
   - ``node start``
 
-## ``intro_projects``
+## ``projects/intro_projects``
 
 It includes simple react projects to try fundamental react concepts.
 
-### ``simple_page``
+### ``projects/intro_projects/simple_page``
 
 - ``overviev``
 
   <img src = img/intro_project_one.png width="600" height="100%"></img>
 
-## ``find_powers``
+## ``projects/find_powers``
 
 It use plotly API. Application calculate choosen number powers and show  them using plotly.
 
@@ -25,7 +25,7 @@ It use plotly API. Application calculate choosen number powers and show  them us
   
   <img src = img/find_power.png width="600" height="100%"></img>
 
-## ``blog``
+## ``projects/blog``
 
 It is a personal blog project, it is purposed to use different bootstrap components in react.
 
