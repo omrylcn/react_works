@@ -1,0 +1,47 @@
+.j-custom {
+    background-color: #4DD0E1;
+    color           : white;
+    font-family     : ubuntu;
+}
+
+.n-custom {
+    background-color: #546E7A;
+    font-family     : ubuntu;
+    color           : white;
+}
+
+.nav-img-custom {
+    width      : 40px;
+    font-family: ubuntu;
+}
+
+.responsive {
+    width     : auto;
+    max-width : 800px;
+    max-height: 600px;
+    height    : auto;
+}
+
+.btn-custom {
+    background-color: #4DD0E1;
+
+}
+
+.error-custom {
+    padding-top: 100px;
+}
+
+.a-custom {
+    color: white;
+}
+
+.a-custom:hover {
+    color: white;
+}
+
+.i-custom {
+    border      : 2px solid transparent;
+    border-color: white;
+    width       : 45px;
+    height      : 45px;
+}
