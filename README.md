@@ -9,7 +9,7 @@ This repo includes  my personal works during my react learning adventure. To run
 
 ## ``projects``
 
-It includes react projects to try fundamental react concepts.
+It includes different react projects.
 
 ### ``projects/intro_projects/simple_page``
 
