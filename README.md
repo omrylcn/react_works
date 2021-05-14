@@ -7,9 +7,9 @@ This repo includes  my personal works during my react learning adventure. To run
   - ``node install``
   - ``node start``
 
-## ``projects/intro_projects``
+## ``projects``
 
-It includes simple react projects to try fundamental react concepts.
+It includes react projects to try fundamental react concepts.
 
 ### ``projects/intro_projects/simple_page``
 
