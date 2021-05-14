@@ -19,7 +19,7 @@ It includes different react projects.
 
 ## ``projects/find_powers``
 
-It use plotly API. Application calculate choosen number powers and show  them using plotly.
+It uses plotly API. Application calculates choosen number powers and show  them using plotly.
 
 - ``overview``
   
